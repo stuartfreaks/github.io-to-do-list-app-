@@ -1,8 +1,8 @@
 
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,400);
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:ital@1&display=swap');
 
 body {
-font: normal normal 13px/16px "Open Sans", sans-serif;
+	font-family: 'Zilla Slab', serif;
 background: #dfdfdf;
 }
 
@@ -24,7 +24,7 @@ padding: 4px 15px 4px 5px;
 
 #button{
 display: inline-block;
-background-color:#fc999b;
+background-color:#008015;
 color:#ffffff;
 border-radius: 5px;
 text-align:center;
